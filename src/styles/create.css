@@ -1,0 +1,42 @@
+.App {
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    background: linear-gradient(0deg, #F6F2FF, #F6F2FF), #FBFAFF;
+  }
+  .App-content {
+    background: linear-gradient(0deg, #F6F2FF, #F6F2FF), #FBFAFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: normal;
+    color: #240D57;
+    height: auto;
+    margin-top: 10%;
+    margin-bottom: 10%;
+  }
+  .subHero {
+    margin: 5% ;
+    margin-bottom: 10%;
+  }
+  .special {
+    background: linear-gradient(90deg, #8456EC 24.2%, #E87BF8 120.46%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+  }
+  .button {
+    background: linear-gradient(90deg, #8456EC 3.25%, #E87BF8 100%);
+    border-radius: 10px;
+    color: white;
+    padding: 3%;
+    margin: 5%;
+  }
+  .form * {
+    margin: 1%;
+    border-radius: 10px;
+    padding: 2%;
+    color: #4f4f4f;
+    border-width: 2px;
+    border-color: #E87BF850;
+  }

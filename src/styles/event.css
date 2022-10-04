@@ -1,0 +1,21 @@
+.App {
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    background:  #FBFAFF;
+  }
+  .App-content-event {
+    background: #FBFAFF;
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    justify-content: normal;
+    color: #240D57;
+    height: auto;
+    margin: 10%;
+    text-align: left;
+  }
+  .subHero-event {
+    margin: 0% ;
+    margin-bottom: 10%;
+    color: #828282;
+  }
